@@ -68,7 +68,7 @@ body {
 /* HERO SECTION */
 .hero {
     padding: 0;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.525), rgba(0, 0, 0, 0.557)), url('home-bg.jpg'); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.525), rgba(0, 0, 0, 0.557)), url('/Assets/home-bg.jpg'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 

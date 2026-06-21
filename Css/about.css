@@ -60,7 +60,7 @@
 
 .hero {
     /* Fixed path without leading slash or backslashes */
-    background-image: url('Rectangle 47 (1).png'); 
+    background-image: url('/Assets/Rectangle 47 (1).png'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center;
